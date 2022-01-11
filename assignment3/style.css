@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
+}
+
+#title {
+    color: red;
+}
+
+#logout {
+float: right;
+}
+
+#stocks {
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translate( -50%);
+    background-color: white;
+}
+
+a:visited{
+    color: blue;
+}
+
+#stock {
+    margin-top: 30px;
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translate( -50%);
+    background-color: white;
+    text-align:center;
+}
+
+#commentSection {
+    margin-top: 40px;
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translate( -50%);
+    background-color: white;
+}
+
+#money{
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translate( -50%);
+    background-color: white;
+}
+
+#titles{
+    position: relative;
+    left: 50%;
+    width: fit-content;
+    transform: translate( -50%);
+    background-color: white;
+}
